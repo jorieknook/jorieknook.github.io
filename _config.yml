@@ -7,7 +7,7 @@ permalink:           pretty
 # Setup
 title:               Ignacio Carlucho
 tagline:             'PhD Student'
-description:         '<img src="nacho.jpg" alt="nacho"> Reinforcement Learning, Cognitive Control, and Autonomous Underwater Robotics. <a class="github-button" href="https://github.com/ignaciocarlucho" aria-label="Follow @ignaciocarlucho on GitHub">Follow</a> <a href="https://twitter.com/i_carlucho?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>'
+description:         '<img src="nacho.jpg" alt="nacho"> Reinforcement Learning, Cognitive Control and Autonomous Underwater Robotics. <br> <a class="github-button" href="https://github.com/ignaciocarlucho" aria-label="Follow @ignaciocarlucho on GitHub">Follow</a> <a href="https://twitter.com/i_carlucho?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false">Follow @i_carlucho</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> '
 # <a href="https://twitter.com/i_carlucho" target="_blank">@i_ignacio</a>.'
 url:                 https://ignaciocarlucho.github.io/
 baseurl:             ''
