@@ -7,7 +7,7 @@ permalink:           pretty
 # Setup
 title:               Ignacio Carlucho
 tagline:             'PhD Student'
-description:         'Reinforcement Learning, Cognitive Control, and Autonomous Underwater Robotics. <a href="https://twitter.com/i_carlucho" target="_blank">@i_ignacio</a>.'
+description:         'Reinforcement Learning, Cognitive Control, and Autonomous Underwater Robotics. <img src="nacho.jpg" alt="nacho"> <a href="https://twitter.com/i_carlucho" target="_blank">@i_ignacio</a>.'
 url:                 https://ignaciocarlucho.github.io/
 baseurl:             ''
 paginate:            5
