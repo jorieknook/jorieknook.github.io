@@ -7,8 +7,7 @@ permalink:           pretty
 # Setup
 title:               Jorie Knook
 tagline:             'PhD Student'
-description:         '<img src="Jorie_K.jpg" alt="jorie"> PhD student at the University of Edinburgh and SRUC. Working on Agriculture Economics
-# <a href="https://twitter.com/i_carlucho" target="_blank">@i_ignacio</a>.'
+description:         '<img src="Jorie_K.JPG" alt="jorie"> PhD student at the University of Edinburgh and SRUC. Working on Agriculture Economics
 url:                 https://jorieknook.github.io/
 baseurl:             ''
 paginate:            5
